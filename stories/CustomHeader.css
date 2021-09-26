@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+.headerContainer{
+    display:flex;
+    padding:25px 0;
+}
+.headerContainer div {
+    margin-left:26px;
+}
+.headerContainer h1{
+    margin: 0;
+    font-family: Rubik;
+    font-weight: 500;
+    font-size:18px;
+    /* background-color: aqua; */
+    margin-bottom: 6px;
+
+}
+.headerContainer {
+    color: #272727
+}
+
+.desc {
+    color: #272727b0;
+    font-size: 14px;
+}
+.iconWrap{
+    position:relative;
+    width:40px;
+}
